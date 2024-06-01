@@ -1,0 +1,73 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+}
+
+html {
+    font-size: 24px;
+}
+
+img {
+    width:auto;
+    height:5rem;
+}
+.wrapper {
+    margin:0.5rem;
+}
+
+header img {
+    width:2rem;
+    height:2rem;
+}
+
+.navLinks {
+    
+    float : right;
+    align-items: flex-start;
+    padding:0.5rem;
+    font-weight: 700;
+      
+}
+
+div p {
+    letter-spacing: 8px;
+
+    padding-bottom: 0px;
+    font-size: 1rem;
+}
+
+div h2{
+    font-weight: 900;
+    font-size: 2rem;
+    max-width:  29ch;
+   
+}
+
+.projects h2 {
+    margin:1rem;
+}
+
+.picSkills {
+    clear:both
+    height:2rem;
+    width:2rem;
+    position:left;
+   
+}
+
+.projects h2 {
+    display: flex;
+    justify-content: center;
+    margin-top:3rem;
+}
+
+.projectImg {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.blog.blogHeading1 {
+     margin-top: 3rem;
+}
+
